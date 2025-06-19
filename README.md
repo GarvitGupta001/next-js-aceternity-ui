@@ -11,7 +11,7 @@ This is my very first project using [Next.js](https://nextjs.org/) and [TypeScri
 - **TypeScript Basics:**  
   This was my first time using TypeScript. I got hands-on experience with type annotations, interfaces, and the benefits of type safety in React components.
 - **Component Libraries:**  
-  I used components from Acertinity UI (or a similar UI library) to build a visually appealing interface and learned how to integrate third-party UI components.
+  I used components from Aceternity UI (or a similar UI library) to build a visually appealing interface and learned how to integrate third-party UI components.
 - **Frontend Focus:**  
   The project is purely frontend, with no backend or API integration.
 
@@ -31,7 +31,7 @@ public/          # Static assets (images, favicon, etc.)
 
 - **Framework:** Next.js 15
 - **Language:** TypeScript
-- **UI:** Acertinity UI components (or similar)
+- **UI:** Aceternity UI components (or similar)
 - **Styling:** Tailwind CSS
 - **Other:** React 19
 
