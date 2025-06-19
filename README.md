@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# First Next.js App
 
-## Getting Started
+This is my very first project using [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). The project is entirely frontend-based and was created as part of my journey to learn the basics of modern web development.
 
-First, run the development server:
+## 🚀 What I Learned
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Next.js Structure:**  
+  I explored the basic structure of a Next.js app, including the `app` directory, routing, and how pages and layouts work.
+- **Routing:**  
+  I learned how to set up and navigate between different routes in a Next.js project.
+- **TypeScript Basics:**  
+  This was my first time using TypeScript. I got hands-on experience with type annotations, interfaces, and the benefits of type safety in React components.
+- **Component Libraries:**  
+  I used components from Acertinity UI (or a similar UI library) to build a visually appealing interface and learned how to integrate third-party UI components.
+- **Frontend Focus:**  
+  The project is purely frontend, with no backend or API integration.
+
+## 🗂️ Project Structure
+
+```
+src/
+  app/           # Main app directory (routing, pages, layout)
+  components/    # Reusable React components (Navbar, HeroSection, etc.)
+    ui/          # UI-specific components and effects
+  data/          # (If used) Static data for the app
+  utils/         # (If used) Utility functions
+public/          # Static assets (images, favicon, etc.)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework:** Next.js 15
+- **Language:** TypeScript
+- **UI:** Acertinity UI components (or similar)
+- **Styling:** Tailwind CSS
+- **Other:** React 19
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏁 Getting Started
 
-## Learn More
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+2. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-To learn more about Next.js, take a look at the following resources:
+3. **Build for production:**
+   ```bash
+   npm run build
+   npm start
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 Notes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- This project is a learning exercise and may not follow all best practices.
+- All code is written in TypeScript for type safety and better developer experience.
+- The UI is built using pre-made components to focus on learning structure and logic.
