@@ -2,7 +2,7 @@
 
 This is my very first project using [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). The project is entirely frontend-based and was created as part of my journey to learn the basics of modern web development.
 
-## 🚀 What I Learned
+##  What I Learned
 
 - **Next.js Structure:**  
   I explored the basic structure of a Next.js app, including the `app` directory, routing, and how pages and layouts work.
@@ -11,11 +11,11 @@ This is my very first project using [Next.js](https://nextjs.org/) and [TypeScri
 - **TypeScript Basics:**  
   This was my first time using TypeScript. I got hands-on experience with type annotations, interfaces, and the benefits of type safety in React components.
 - **Component Libraries:**  
-  I used components from Acertinity UI (or a similar UI library) to build a visually appealing interface and learned how to integrate third-party UI components.
+  I used components from Aceternity UI (or a similar UI library) to build a visually appealing interface and learned how to integrate third-party UI components.
 - **Frontend Focus:**  
   The project is purely frontend, with no backend or API integration.
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -27,11 +27,11 @@ src/
 public/          # Static assets (images, favicon, etc.)
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** Next.js 15
 - **Language:** TypeScript
-- **UI:** Acertinity UI components (or similar)
+- **UI:** Aceternity UI components (or similar)
 - **Styling:** Tailwind CSS
 - **Other:** React 19
 
@@ -53,7 +53,7 @@ public/          # Static assets (images, favicon, etc.)
    npm start
    ```
 
-## 📚 Notes
+##  Notes
 
 - This project is a learning exercise and may not follow all best practices.
 - All code is written in TypeScript for type safety and better developer experience.
