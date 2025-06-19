@@ -35,7 +35,7 @@ public/          # Static assets (images, favicon, etc.)
 - **Styling:** Tailwind CSS
 - **Other:** React 19
 
-## 🏁 Getting Started
+##  Getting Started
 
 1. **Install dependencies:**
    ```bash
