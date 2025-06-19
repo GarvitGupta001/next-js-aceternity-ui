@@ -2,7 +2,7 @@
 
 This is my very first project using [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). The project is entirely frontend-based and was created as part of my journey to learn the basics of modern web development.
 
-## 🚀 What I Learned
+##  What I Learned
 
 - **Next.js Structure:**  
   I explored the basic structure of a Next.js app, including the `app` directory, routing, and how pages and layouts work.
@@ -15,7 +15,7 @@ This is my very first project using [Next.js](https://nextjs.org/) and [TypeScri
 - **Frontend Focus:**  
   The project is purely frontend, with no backend or API integration.
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -27,7 +27,7 @@ src/
 public/          # Static assets (images, favicon, etc.)
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** Next.js 15
 - **Language:** TypeScript
@@ -35,7 +35,7 @@ public/          # Static assets (images, favicon, etc.)
 - **Styling:** Tailwind CSS
 - **Other:** React 19
 
-## 🏁 Getting Started
+##  Getting Started
 
 1. **Install dependencies:**
    ```bash
@@ -53,7 +53,7 @@ public/          # Static assets (images, favicon, etc.)
    npm start
    ```
 
-## 📚 Notes
+##  Notes
 
 - This project is a learning exercise and may not follow all best practices.
 - All code is written in TypeScript for type safety and better developer experience.
